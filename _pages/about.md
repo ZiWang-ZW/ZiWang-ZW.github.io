@@ -37,13 +37,25 @@ Yili Ren, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang. “Liquid Level
 
 Sheng Tan, Linghan Zhang, Zi Wang, Jie Yang, “MultiTrack: Multi-User Tracking and Activity Recognition Using Commodity WiFi”, ACM Conference on Human Factors in Computing Systems (CHI 2019), Glasgow, 2019. (Acceptance Rate: 23.8%) - top-tier csrankings.org conference
 
+Zi Wang, Yili Ren, Yingying Chen, Jie Yang, “Earable Authentication via Acoustic Toothprint”, The ACM Conference on Computer and Communications Security (CCS 2021) poster, Virtual, 2021.
+
+Zi Wang, Yili Ren, Yingying Chen, Jie Yang, “An Ear Canal Deformation Based Continuous User Authentication Using Earables” The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021) poster, Virtual, 2021.
+
+Y. Ren, Z. Wang, Y. Wang, S. Tan, Y. Chen, J. Yang, “Tracking Free-form Activity Using WiFi Signals” The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021) poster, Virtual, 2021.
+
+Y. Ren, Z. Wang, Y. Wang, S. Tan, Y. Chen, J. Yang “Poster Abstract: 3D Human Pose Estimation Using WiFi Signals” The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys 2021) poster, Virtual, 2021.
+
+
 
 Services and Awards
 ======
 Conferences Reviewer, helped in reviewing paper of conferences such as InfoCom 2022/2021, ASIACCS 2022, ACSAC 2021, CNS 2021, ESORICS2021, DCOSS 2021, Wisec2021, WASA2021, IWQoS 2021, ICCCN 2021, IoT 2021/2020/2019, MSN 2019.
-Journal Reviewer,  helped in reviewing paper of conferences such as IEEE Transaction on Mobile Computing, PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IEEE Transaction on Cybernetics, IEEE Transaction on Big Data, ACM Transactions on Internet of Things, IEEE Communications Letters, IEEE Access, MDPI Sensors, MDPI Applied Sciences, MDPI Symmetry, MDPI Electronics.
+
+Journal Reviewer,  helped in reviewing paper of conferences such as IEEE Transaction on Mobile Computing, PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IEEE Transaction on Cybernetics, IEEE Transaction on Big Data, ACM Transactions on Internet of Things.
+
 Outstanding Research Award (1 out of 90 Ph.D. students), Department of Computer Science, Florida State University, 2021
-State Key Lab Graduate Research Scholarship, State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, 2012-2014
+
+<!-- State Key Lab Graduate Research Scholarship, State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, 2012-2014 -->
 
 
 Teaching
@@ -51,8 +63,11 @@ Teaching
 I serve as guest lecturer and teaching assistant in the following courses:
 
 COP 4020 Programming Language, Spring 2018, 2019, 2020, Fall 2020
+
 CDA 3100 Computer Organization, Fall 2018, 2019
+
 CIS 4403, CIS4360 - Fall 2017, 2021
+
 CGS2060 Computer Fluency, Summer 2018
 
 
