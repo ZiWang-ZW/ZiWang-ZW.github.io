@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zi Wang"
+title                    : "Zi Wang’s Homepage"
 title_separator          : "-"
 name                     : &name "Zi Wang"
 description              : &description "personal description"
