@@ -1,17 +1,20 @@
 ---
 permalink: /
-title: "About"
+title: "Zi Wang's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+
 About
 ======
 Zi Wang is a Ph.D. candidate in the Department of Computer Science at Florida State University, supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/).
 
 His research interests span Mobile Computing, Cyber Security, Human Computer Interaction and Computer Science Education. He published papers in premier venues such as ACM Ubicomp, ACM MobiCom, ACM CHI, and ACM CCS. His current projects include mobile safety system for distracted driver/pedestrian and mobile sensing for human computer interaction applications.
+
 
 Research Interests
 ======
@@ -20,9 +23,47 @@ Cyber Security: biometrics, user authentication, device identification, wireless
 Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensing, and mobile healthcare
 
 
+Publication
+======
+Zi Wang, Sheng Tan, Linghan Zhang, Yili Ren, Zhi Wang, and Jie Yang, “EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables”, Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2021). (Acceptance Rate≈ 20%) - top-tier csrankings.org conference
+
+Zi Wang, Linghan Zhang, Sheng Tan, Jie Yang, “ObstacleWatch: Acoustic-based Obstacle Collision Detection for Pedestrian Using Smartphone”, Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2019). (Acceptance Rate ≈ 20%) - top-tier csrankings.org conference
+
+Yili Ren, Zi Wang, Sheng Tan, Yingying Chen Jie Yang. “Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2022), September 2022.  - top-tier csrankings.org conference
+
+Linghan Zhang, Sheng Tan, Zi Wang, Yili Ren, Zhi Wang, Jie Yang, “VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment”, accepted by the 36th Annual Computer Security Applications Conference (ACSAC 2020), December 2020. (Acceptance Rate: 23.41%)
+
+Yili Ren, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang. “Liquid Level Sensing Using Commodity WiFi in a Smart Home Environment”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2020), September 2020.  - top-tier csrankings.org conference
+
+Sheng Tan, Linghan Zhang, Zi Wang, Jie Yang, “MultiTrack: Multi-User Tracking and Activity Recognition Using Commodity WiFi”, ACM Conference on Human Factors in Computing Systems (CHI 2019), Glasgow, 2019. (Acceptance Rate: 23.8%) - top-tier csrankings.org conference
+
+
+Services and Awards
+======
+Conferences Reviewer, helped in reviewing paper of conferences such as InfoCom 2022/2021, ASIACCS 2022, ACSAC 2021, CNS 2021, ESORICS2021, DCOSS 2021, Wisec2021, WASA2021, IWQoS 2021, ICCCN 2021, IoT 2021/2020/2019, MSN 2019.
+Journal Reviewer,  helped in reviewing paper of conferences such as IEEE Transaction on Mobile Computing, PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IEEE Transaction on Cybernetics, IEEE Transaction on Big Data, ACM Transactions on Internet of Things, IEEE Communications Letters, IEEE Access, MDPI Sensors, MDPI Applied Sciences, MDPI Symmetry, MDPI Electronics.
+Outstanding Research Award (1 out of 90 Ph.D. students), Department of Computer Science, Florida State University, 2021
+State Key Lab Graduate Research Scholarship, State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, 2012-2014
+
+
+Teaching
+======
+I serve as guest lecturer and teaching assistant in the following courses:
+
+COP 4020 Programming Language, Spring 2018, 2019, 2020, Fall 2020
+CDA 3100 Computer Organization, Fall 2018, 2019
+CIS 4403, CIS4360 - Fall 2017, 2021
+CGS2060 Computer Fluency, Summer 2018
+
+
+Misc
+======
+I enjoy many sports like badminton, tennis, swimming, and skateboard.
+
+I am interested in playing and developing video games. I am also a fan of D&D and MTG.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -60,4 +101,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
