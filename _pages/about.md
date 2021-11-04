@@ -12,7 +12,7 @@ redirect_from:
 
 Zi Wang is a Ph.D. candidate in the Department of Computer Science at Florida State University, supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/).
 
-His research interests span Mobile Computing, Cyber Security, Human Computer Interaction and Computer Science Education. He published papers in premier venues such as ACM Ubicomp, ACM MobiCom, ACM CHI, and ACM CCS. His current projects include mobile safety system for distracted driver/pedestrian and mobile sensing for human computer interaction applications.
+His research interests span Mobile Computing, Cyber Security, Human Computer Interaction. He published papers in premier venues such as ACM Ubicomp, ACM MobiCom, ACM CHI, and ACM CCS. His current projects include earables sensing, human biometrics, user authentication and mobile sensing for human computer interaction applications.
 
 
 Research Interests
