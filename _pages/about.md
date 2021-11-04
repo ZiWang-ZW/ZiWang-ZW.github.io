@@ -24,25 +24,25 @@ Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensi
 
 Publication
 ======
-**Zi Wang**, Sheng Tan, Linghan Zhang, Yili Ren, Zhi Wang, and Jie Yang, “EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables”, Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2021). (Acceptance Rate≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+**Zi Wang**, Sheng Tan, Linghan Zhang, Yili Ren, Zhi Wang, and Jie Yang, “EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables”, *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2021)*. (Acceptance Rate≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
-**Zi Wang**, Linghan Zhang, Sheng Tan, Jie Yang, “ObstacleWatch: Acoustic-based Obstacle Collision Detection for Pedestrian Using Smartphone”, Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2019). (Acceptance Rate ≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+**Zi Wang**, Linghan Zhang, Sheng Tan, Jie Yang, “ObstacleWatch: Acoustic-based Obstacle Collision Detection for Pedestrian Using Smartphone”, *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2019)*. (Acceptance Rate ≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
-Yili Ren, **Zi Wang**, Sheng Tan, Yingying Chen Jie Yang. “Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2022), September 2022.  - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+Yili Ren, **Zi Wang**, Sheng Tan, Yingying Chen Jie Yang. “Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi”, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2022)*, September 2022.  - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
-Linghan Zhang, Sheng Tan, **Zi Wang**, Yili Ren, Zhi Wang, Jie Yang, “VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment”, accepted by the 36th Annual Computer Security Applications Conference (ACSAC 2020), December 2020. (Acceptance Rate: 23.41%)
+Linghan Zhang, Sheng Tan, **Zi Wang**, Yili Ren, Zhi Wang, Jie Yang, “VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment”, accepted by the *36th Annual Computer Security Applications Conference (ACSAC 2020)*, December 2020. (Acceptance Rate: 23.41%)
 
-Yili Ren, Sheng Tan, Linghan Zhang, **Zi Wang**, Zhi Wang, Jie Yang. “Liquid Level Sensing Using Commodity WiFi in a Smart Home Environment”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2020), September 2020.  - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+Yili Ren, Sheng Tan, Linghan Zhang, **Zi Wang**, Zhi Wang, Jie Yang. “Liquid Level Sensing Using Commodity WiFi in a Smart Home Environment”, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2020)*, September 2020.  - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
-Sheng Tan, Linghan Zhang, **Zi Wang**, Jie Yang, “MultiTrack: Multi-User Tracking and Activity Recognition Using Commodity WiFi”, ACM Conference on Human Factors in Computing Systems (CHI 2019), Glasgow, 2019. (Acceptance Rate: 23.8%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+Sheng Tan, Linghan Zhang, **Zi Wang**, Jie Yang, “MultiTrack: Multi-User Tracking and Activity Recognition Using Commodity WiFi”, *ACM Conference on Human Factors in Computing Systems (CHI 2019)*, Glasgow, 2019. (Acceptance Rate: 23.8%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
-**Zi Wang**, Yili Ren, Yingying Chen, Jie Yang, “Earable Authentication via Acoustic Toothprint”, The ACM Conference on Computer and Communications Security (CCS 2021) poster, Virtual, 2021. - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+**Zi Wang**, Yili Ren, Yingying Chen, Jie Yang, “Earable Authentication via Acoustic Toothprint”, *The ACM Conference on Computer and Communications Security (CCS 2021)* poster, Virtual, 2021. - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
-**Zi Wang**, Yili Ren, Yingying Chen, Jie Yang, “An Ear Canal Deformation Based Continuous User Authentication Using Earables” The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021) poster, Virtual, 2021. - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+**Zi Wang**, Yili Ren, Yingying Chen, Jie Yang, “An Ear Canal Deformation Based Continuous User Authentication Using Earables” *The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021)* poster, Virtual, 2021. - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
-Y. Ren, **Z. Wang**, Y. Wang, S. Tan, Y. Chen, J. Yang, “Tracking Free-form Activity Using WiFi Signals” The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021) poster, Virtual, 2021. - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+Y. Ren, **Z. Wang**, Y. Wang, S. Tan, Y. Chen, J. Yang, “Tracking Free-form Activity Using WiFi Signals” *The 27th Annual International Conference on Mobile Computing and Networking (Mobicom 2021)* poster, Virtual, 2021. - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
-Y. Ren, **Z. Wang**, Y. Wang, S. Tan, Y. Chen, J. Yang “Poster Abstract: 3D Human Pose Estimation Using WiFi Signals” The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys 2021) poster, Virtual, 2021. - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+Y. Ren, **Z. Wang**, Y. Wang, S. Tan, Y. Chen, J. Yang “Poster Abstract: 3D Human Pose Estimation Using WiFi Signals” *The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys 2021)* poster, Virtual, 2021. - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
 
 
