@@ -72,7 +72,7 @@ CGS2060 Computer Fluency, Summer 2018
 
 Misc
 ======
-I enjoy many sports like badminton, tennis, swimming, basketball, and skateboard.
+I enjoy many sports like badminton, tennis, swimming, basketball, [padding board](https://ziwang-zw.github.io/files/paddingboard.jpg), and skateboard.
 
 I am interested in playing and developing video games. I am also a fan of D&D and MTG.
 
