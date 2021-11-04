@@ -81,11 +81,11 @@ analytics:
 # Site Author Left
 author:
   name             : "Zi Wang"
-  avatar           : "profile.png"
+  avatar           : "profile2.jpg"
   bio              : "Zi Wang is a Ph.D candidate in the Department of Computer Science at Florida State University."
   location         : "Tallahassee, FL"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=-wWmQDIAAAAJ&view_op=list_works&authuser=4&gmla=AJsN-F5kFDT8PBl2RGyemv89GtWkFU59Vr7gt-oK2X_w3TeSKAlevV3lFMyMspF5tRgCwR-m2v2-oe52M6b7wN6WRSV3mj_-2V5z9i-xEKN9cX7K5wEEdlk"
   email            : "zw16b at fsu dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
