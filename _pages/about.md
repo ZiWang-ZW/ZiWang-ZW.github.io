@@ -28,6 +28,8 @@ Publication
 
 **Zi Wang**, Linghan Zhang, Sheng Tan, Jie Yang, “ObstacleWatch: Acoustic-based Obstacle Collision Detection for Pedestrian Using Smartphone”, *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2019)*. (Acceptance Rate ≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
+**Zi Wang**, etc., “Earable Authentication via Acoustic Toothprint”, under review, 2022 - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+
 Yili Ren, **Zi Wang**, Sheng Tan, Yingying Chen Jie Yang. “Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi”, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2022)*, September 2022.  - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
 Linghan Zhang, Sheng Tan, **Zi Wang**, Yili Ren, Zhi Wang, Jie Yang, “VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment”, accepted by the *36th Annual Computer Security Applications Conference (ACSAC 2020)*, December 2020. (Acceptance Rate: 23.41%)
