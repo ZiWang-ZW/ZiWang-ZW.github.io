@@ -24,11 +24,11 @@ Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensi
 
 Publication
 ======
+**Zi Wang**, Yili Ren, Yingying Chen, and Jie Yang, “ToothSonic: Earable Authentication via Acoustic Toothprint”, *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2022)*. (Acceptance Rate≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+
 **Zi Wang**, Sheng Tan, Linghan Zhang, Yili Ren, Zhi Wang, and Jie Yang, “EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables”, *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2021)*. (Acceptance Rate≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
 **Zi Wang**, Linghan Zhang, Sheng Tan, Jie Yang, “ObstacleWatch: Acoustic-based Obstacle Collision Detection for Pedestrian Using Smartphone”, *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2019)*. (Acceptance Rate ≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
-
-**Zi Wang**, etc., “Earable Authentication via Acoustic Toothprint”, under review, 2022 - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
 Yili Ren, **Zi Wang**, Sheng Tan, Yingying Chen Jie Yang. “Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi”, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2022)*, September 2022.  - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
