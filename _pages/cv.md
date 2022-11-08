@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beijing Jiaotong University, Beijing, 2010
+* Ph.D in Florida State University, Tallahassee, FL, USA, 2022
 * M.S. in Beijing Jiaotong University, Beijing, 2014
-* Ph.D in Florida State University, Tallahassee, FL, USA, 2022 (expected)
+* B.S. in Beijing Jiaotong University, Beijing, 2010
+
 
 Work experience
 ======
-* 2016-present: Research Assistant
+* 2022-present: Assistant Professor
+  * Augusta University
+
+* 2016-2022: Research Assistant
   * Florida State University
   * Focus: Mobile Sensing, Cyber Security
   * Supervisor: Dr. Jie Yang
