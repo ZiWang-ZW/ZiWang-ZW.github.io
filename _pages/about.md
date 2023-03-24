@@ -12,12 +12,14 @@ redirect_from:
 RA positions available: I am happy to work with self-motivated Ph.D. students. If you are interested in my research area, please email me with your CV, transcripts, TOEFL/GRE score, and representative publications (if any).
 
 
-Zi Wang is an assistant professor of Computer Science in the School of Computer and Cyber Sciences at Augusta University. His research interests span Mobile Computing, Cyber Security, and Human-Computer Interaction. He published papers in premier venues such as ACM Ubicomp, ACM MobiCom, ACM CHI, and ACM CCS. His current projects include earables sensing, human biometrics, user authentication, and mobile sensing for human-computer interaction applications. Before joining Augusta University, he was a Ph.D. student in the Department of Computer Science at Florida State University, supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/).
+Zi Wang is an assistant professor of Computer Science in the School of Computer and Cyber Sciences at Augusta University. His research interests span Mobile Computing and Human-Computer Interaction. He published papers in premier venues such as ACM Ubicomp, ACM MobiCom, and ACM CHI. His current projects include earables sensing, human biometrics, user authentication, and mobile sensing for human-computer interaction applications. Before joining Augusta University, he was a Ph.D. student in the Department of Computer Science at Florida State University, supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/).
 
+
+<!-- Zi Wang is an assistant professor of Computer Science in the School of Computer and Cyber Sciences at Augusta University. His research interests span Mobile Computing, Cyber Security, and Human-Computer Interaction. He published papers in premier venues such as ACM Ubicomp, ACM MobiCom, ACM CHI, and ACM CCS. His current projects include earables sensing, human biometrics, user authentication, and mobile sensing for human-computer interaction applications. Before joining Augusta University, he was a Ph.D. student in the Department of Computer Science at Florida State University, supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/). -->
 
 Research Interests
 ======
-Cyber Security: biometrics, user authentication, device identification, wireless security, and IoT security
+<!-- Cyber Security: biometrics, user authentication, device identification, wireless security, and IoT security -->
 
 Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensing, and mobile healthcare
 
