@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download My CV Here](/assets/cv.pdf)
+
 Education
 ======
 * Ph.D in Florida State University, Tallahassee, FL, USA, 2022
