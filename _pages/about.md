@@ -11,8 +11,7 @@ redirect_from:
 
 RA positions available: I am happy to work with self-motivated Ph.D. students. If you are interested in my research area, please email me with your CV, transcripts, TOEFL/GRE score, and representative publications (if any).
 
-
-Zi Wang is an assistant professor of Computer Science in the School of Computer and Cyber Sciences at Augusta University. His research interests span Mobile Computing and Human-Computer Interaction. He published papers in premier venues such as ACM Ubicomp, ACM MobiCom, and ACM CHI. His current projects include earables sensing, human biometrics, user authentication, and mobile sensing for human-computer interaction applications. Before joining Augusta University, he was a Ph.D. student in the Department of Computer Science at Florida State University, supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/).
+Zi Wang is an Assistant Professor in the School of Computer and Cyber Sciences at Augusta University. His research spans the intersection of Mobile Computing, Human-Computer Interaction, Cybersecurity, and Artificial Intelligence. He has published in premier venues including ACM UbiComp, ACM MobiCom, and ACM CHI. His work focuses on developing novel sensing systems that leverage cutting-edge AI and machine learning techniques to enhance human-centered applications. Before joining Augusta University, he was a Ph.D. student in the Department of Computer Science at Florida State University, supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/).
 
 
 <!-- Zi Wang is an assistant professor of Computer Science in the School of Computer and Cyber Sciences at Augusta University. His research interests span Mobile Computing, Cyber Security, and Human-Computer Interaction. He published papers in premier venues such as ACM Ubicomp, ACM MobiCom, ACM CHI, and ACM CCS. His current projects include earables sensing, human biometrics, user authentication, and mobile sensing for human-computer interaction applications. Before joining Augusta University, he was a Ph.D. student in the Department of Computer Science at Florida State University, supervised by [Prof. Jie Yang](https://www.cs.fsu.edu/~jieyang/). -->
@@ -21,11 +20,17 @@ Research Interests
 ======
 <!-- Cyber Security: biometrics, user authentication, device identification, wireless security, and IoT security -->
 
-Mobile Computing: mobile sensing systems, smartphone and WiFi applications/sensing, and mobile healthcare
+Mobile and Wearable Computing, AI-Enhanced Human-centered Sensing, Healthcare and Biometric Security, Human-Computer Interaction
 
 
 Publication
 ======
+**Zi Wang**, Yilin Wang, Jie Yang,, “EarSlide: a Secure Ear Wearables Biometric Authentication Based on Acoustic Fingerprint”, *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2024)*. (Acceptance Rate≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
+
+Youngone Lee, Sheng Tan, **Zi Wang**, “CochlearMotion: Head Gesture Recognition Leveraging Ear Canal Deformation Sensing”, The Hawaii International Conference on System Sciences (HICSS-58), January 2025.
+
+Yilin Wang, **Zi Wang** (Co-first), Jie Yang, ”Acoustic-based Alphanumeric Input Interface for Earables”, International Conference on Computer Communications and Networks. (ICCCN 2024)
+
 **Zi Wang**, Yili Ren, Yingying Chen, and Jie Yang, “ToothSonic: Earable Authentication via Acoustic Toothprint”, *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2022)*. (Acceptance Rate≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
 
 **Zi Wang**, Sheng Tan, Linghan Zhang, Yili Ren, Zhi Wang, and Jie Yang, “EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables”, *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT) (UbiComp 2021)*. (Acceptance Rate≈ 20%) - top-tier [csrankings.org](http://csrankings.org/#/index?all&us) conference
@@ -54,9 +59,11 @@ Y. Ren, **Z. Wang**, Y. Wang, S. Tan, Y. Chen, J. Yang “Poster Abstract: 3D Hu
 
 Services and Awards
 ======
-Conferences Reviewer, helped in reviewing paper of conferences such as InfoCom 2022/2021, ASIACCS 2022, ACSAC 2021, CNS 2021, ESORICS2021, DCOSS 2021, Wisec2021, WASA2021, IWQoS 2021, ICCCN 2021, IoT 2021/2020/2019, MSN 2019.
+Committee and Editors, DATA 2024 Committee, CANS 2023 Organizing Committee Co-chair, Electronics Guest Editor
 
-Journal Reviewer,  helped in reviewing paper of conferences such as IEEE Transaction on Mobile Computing, PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IEEE Transaction on Cybernetics, IEEE Transaction on Big Data, ACM Transactions on Internet of Things.
+Reviewer for conferences, Reviewer of IEEE INFOCOM 2025, Ubicomp/IMWUT 2024, CHI 2024, MASS 2023, Interact 2023, helped in reviewing paper of InfoCom 2022/2021, ASIACCS 2022, ACSAC 2021, CNS 2021, ESORICS2021, DCOSS 2021, Wisec2021, WASA2021, IWQoS 2021, ICCCN 2021, IoT 2021/2020/2019, MSN 2019. 
+
+Reviewer for journals, Reviewer of IEEE Internet of Things Journal, IEEE Transactions on Systems, Man, and Cybernetics, IEEE Transactions on Mobile Computing, IEEE Transactions on Information Forensics and Security, Journal of Systems Architecture, Sensors, Electronics, Healthcare, IoT, Applied Sciences, Future Internet, Biomedicines, Signals, Network, IJMS, JFMK.
 
 Outstanding Research Award (1 out of 90 Ph.D. students), Department of Computer Science, Florida State University, 2021
 
@@ -65,14 +72,17 @@ Outstanding Research Award (1 out of 90 Ph.D. students), Department of Computer 
 
 Teaching
 ======
-I serve as guest lecturer and teaching assistant in the following courses:
+Lecturer:
+
+CYBR 2600 Introduction to Networking and Cyber Security, Spring 2025, Fall 2024, Spring 2023
+AIST 2220 Intro to Web Development, Fall 2023
+
+
+Guest lecturer and teaching assistant:
 
 COP 4020 Programming Language, Spring 2018, 2019, 2020, Fall 2020
-
 CDA 3100 Computer Organization, Fall 2018, 2019
-
 CIS 4403, CIS4360 - Fall 2017, 2021
-
 CGS2060 Computer Fluency, Summer 2018
 
 
